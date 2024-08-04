@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Github
-permalink: /Github
+title: GitHub
+permalink: /GitHub
 ---
 
-## Github
+## GitHub
 
 Highlighted projects on my GitHub (Under Construction...)
 
