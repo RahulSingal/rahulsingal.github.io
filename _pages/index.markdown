@@ -19,8 +19,4 @@ Welcome to my website!
 
 My website is supposed to be simple, archaic, and flat out boring without any modern web design constructs. That is by choice. Inspired by Paul Graham’s website, a prominent Silicon Valley entrepreneur. 
 
-Made with Jekyll and hosted by GitHub Pages. GitHub link.
-
-Check out my thoughts on artificial intelligence vs. human intelligence:
-
-- [About](/about/)
+Made with Jekyll and hosted by GitHub Pages. 
