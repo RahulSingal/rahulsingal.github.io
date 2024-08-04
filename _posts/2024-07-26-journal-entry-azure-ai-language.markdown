@@ -5,7 +5,7 @@ date:   2024-07-26 10:29:40 -0500
 categories: jekyll update
 ---
 
-Welcome to my first foray into using the Azure AI service in the backend on one of my handwritten journal entries for today! This was published on {{ page.date }}.
+Welcome to a foray into using the Azure AI service in the backend on one of my handwritten journal entries for today! This was published on {{ page.date }}.
 
 <h1>Extract Text from Image</h1>
 <form id="uploadForm">
