@@ -6,7 +6,7 @@ permalink: /Github
 
 ## Github
 
-Yo! Here's my GitHub!
+Highlighted projects on my GitHub (Under Construction...)
 
 <form>
   <!-- Form stuff -->
