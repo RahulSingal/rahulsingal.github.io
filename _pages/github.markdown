@@ -10,7 +10,6 @@ Highlighted projects.
 
 * TBD
 
-
 <form>
   <!-- Form stuff -->
 </form>

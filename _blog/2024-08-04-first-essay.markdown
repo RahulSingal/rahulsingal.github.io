@@ -5,4 +5,4 @@ title:  "Second Blog"
 categories: jekyll update
 ---
 
-Welcome to my second blog! This was published on {{ page.date }}.
+Welcome to my second blog! This was published on {{ page.date | date: "%B %d, %Y" }}.

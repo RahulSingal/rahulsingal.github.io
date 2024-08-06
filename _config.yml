@@ -61,6 +61,9 @@ collections:
   essay:
     output: true
     permalink: /essay/:path/
+  shortstories:
+    output: true
+    permalink: /shortstories/:path/
 
 defaults:
   -
@@ -86,7 +89,16 @@ defaults:
       layout: essay
       permalink: /essay/:title/
 
+  -
+    scope:
+      type: shortstories
+      path: ""
+    values:
+      layout: shortstories
+      permalink: /shortstories/:title/
+
 include: 
   - _pages
   - _blog
   - _essay
+  - _shortstories

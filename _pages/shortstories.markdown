@@ -8,8 +8,12 @@ permalink: /shortstories
 
 Creative writings in the form of Short Stories.
 
-* Sandeep talks to us, Rahul responds (March 2022)
-* Camera on Erie (May 2023)
+<ul>
+  {% for shortstories in site.shortstories %}
+  <li><a href="{{ shortstories.url }}" class="shortstories-preview">{{ shortstories.title }}</a></li>
+  {% endfor %}
+</ul>
+
 
 <form>
   <!-- Form stuff -->

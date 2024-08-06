@@ -4,9 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-## My Blog Posts
+## Blog Posts
 
-Free-flowing blogs written in the first person for various audiences.
+Free-flowing streams of consciousness written in the first person for various audiences.
 
 <ul>
   {% for blog in site.blog %}
