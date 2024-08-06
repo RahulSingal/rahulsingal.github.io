@@ -1,11 +1,11 @@
 ---
 layout: blog
-title:  "Azure AI Language on 7/26/24 Journal Entry!"
+title:  "Azure AI Language on Journal Entry!"
 #date:   2024-07-26 10:29:40 -0500
 categories: jekyll update
 ---
 
-Welcome to a foray into using the Azure AI service in the backend on one of my handwritten journal entries for today! This was published on {{ page.date }}. (Not connected to active Azure AI Service...)
+Welcome to a foray into using the Azure AI service in the backend on one of my handwritten journal entries for today! This was published on {{ page.date | date: "%B %d, %Y" }}. (Not connected to active Azure AI Service...)
 
 <h1>Extract Text from Image</h1>
 <form id="uploadForm">

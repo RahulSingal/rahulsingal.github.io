@@ -5,5 +5,5 @@ title:  "Welcome to Jekyll!"
 categories: jekyll update
 ---
 
-Welcome to my first blog post! This was published on {{ page.date }}.
+Welcome to my first blog post! This was published on {{ page.date | date: "%B %d, %Y" }}.
 

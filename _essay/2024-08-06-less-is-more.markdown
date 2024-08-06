@@ -5,4 +5,4 @@ title:  "Less is more"
 categories: jekyll update
 ---
 
-Essay under construction. This was published on {{ page.date }}.
+Essay under construction. This was published on {{ page.date | date: "%B %d, %Y" }}.
