@@ -10,15 +10,12 @@ majorKey: Success
 permalink: /
 ---
 
-
-# (Website Under Construction)
-
 # Rahul Singal
 
-## Developer, Writer, Artist, Athlete, and Lover of Life
+## Welcome to my website! 
 
-Welcome to my website!
+Rahul Singal is based in Chicago and is passionate about technology, art, and life. This website showcase's his various pieces of work in a simple user experience sans most modern web design constructs. Inspired by Paul Graham. 
 
-My website is supposed to be simple, archaic, and flat out boring without any modern web design constructs. That is by choice. Inspired by Paul Graham’s website, a prominent Silicon Valley entrepreneur. 
+You will find carefully crafted essays, free-flowing blog posts, and many other forms of creative endeavors. Thanks for visiting!
 
 Made with Jekyll and hosted by GitHub Pages. 
