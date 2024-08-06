@@ -6,7 +6,7 @@ permalink: /novels
 
 ## Novels
 
-None of my own are ready for public publishing. Many ideas are in the works, maybe in a few years I’ll have something published. In the meantime, here is a living list of some of my favorite novels and authors that I use for inspiration.
+Non-Exhaustive list of favorite novels and authors.
 
 * Love in the Time of Cholera by Gabriel Garcia Marquez
 * One Hundred Years of Solitude by Gabriel Garcia Marquez

@@ -6,7 +6,10 @@ permalink: /GitHub
 
 ## GitHub
 
-Highlighted projects on my GitHub (Under Construction...)
+Highlighted projects.
+
+* TBD
+
 
 <form>
   <!-- Form stuff -->
