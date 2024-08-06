@@ -53,22 +53,40 @@ plugins:
 #   - vendor/ruby/
 
 # NEW CODE
+
+collections:
+  blog:
+    output: true
+    permalink: /blog/:path/
+  essay:
+    output: true
+    permalink: /essay/:path/
+
 defaults:
   -
     scope:
-      type: posts
-      path: _posts
+      type: blog
+      path: ""
     values:
-      is_post: true
-      layout: post
+      layout: blog
       permalink: /blog/:title/
 
   -
     scope:
       type: pages
-      path: _pages
+      path: ""
     values:
-      is_post: false
       layout: default
 
-include: [_pages]
+  -
+    scope:
+      type: essay
+      path: ""
+    values:
+      layout: essay
+      permalink: /essay/:title/
+
+include: 
+  - _pages
+  - _blog
+  - _essay

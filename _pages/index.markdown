@@ -14,7 +14,7 @@ permalink: /
 
 ## Welcome to my website! 
 
-Rahul Singal is based in Chicago and is passionate about technology, art, and life. This website showcase's his various pieces of work in a simple user experience sans most modern web design constructs. Inspired by Paul Graham. 
+Rahul Singal is based in Chicago and is passionate about technology, art, and life. This website showcase's his various pieces of work in a simple user experience sans modern web design constructs.
 
 You will find carefully crafted essays, free-flowing blog posts, and many other forms of creative endeavors. Thanks for visiting!
 

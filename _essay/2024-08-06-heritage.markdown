@@ -1,0 +1,8 @@
+---
+layout: essay
+title:  "Who are you if you don't know your heritage?"
+#date:   2024-07-23 10:29:40 -0500
+categories: jekyll update
+---
+
+Essay under construction. This was published on {{ page.date }}.

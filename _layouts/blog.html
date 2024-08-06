@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article id="blog">
+    <header class="blog-header">
+        <!-- Display the title in a heading format -->
+        <h1 class="blog-title">{{ page.title }}</h1>
+        
+        <!-- Display the date in "Month Year" format -->
+        <div class="blog-date">{{ page.date | date: "%B %d, %Y" }}</div>
+    </header>
+    
+    <!-- Display the essay content -->
+    <div class="blog-content">
+        {{ content }}
+    </div>
+</article>
