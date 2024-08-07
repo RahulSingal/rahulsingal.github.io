@@ -16,6 +16,6 @@ permalink: /
 
 Rahul Singal is passionate about technology, art, and life. This website showcase's his various pieces of work in a simple user experience sans modern web design constructs.
 
-You will find carefully crafted essays, free-flowing blog posts, and many other forms of creative endeavors. Thanks for visiting!
+You will find carefully crafted essays, free-flowing blog posts, and many other forms of his creative endeavors. Thanks for visiting!
 
 Made with Jekyll and hosted by GitHub Pages. 

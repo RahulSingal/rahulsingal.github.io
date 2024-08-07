@@ -5,4 +5,6 @@ title:  "Camera on Erie"
 categories: jekyll update
 ---
 
-Story under construction. This was published on {{ page.date | date: "%B %d, %Y" }}.
+This was my first full-length short story.
+
+[Camera on Erie](/assets/pdfs/The Camera on Erie.pdf){:target="_blank"}
