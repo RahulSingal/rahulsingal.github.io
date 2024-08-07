@@ -8,7 +8,8 @@ permalink: /GitHub
 
 Highlighted projects.
 
-* TBD
+[Rahul Singal's GitHub](https://github.com/RahulSingal)
+
 
 <form>
   <!-- Form stuff -->
