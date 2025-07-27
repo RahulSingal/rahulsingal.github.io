@@ -4,9 +4,9 @@ title: Essays
 permalink: /essay/
 ---
 
-## Essays (Substack)
+## Essays
 
-Crafted thoughts on technology and life.
+(Substack) Crafted thoughts on technology and life.
 
 <ul>
   {% for essay in site.essay %}
