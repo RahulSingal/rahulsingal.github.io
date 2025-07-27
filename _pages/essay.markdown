@@ -4,7 +4,7 @@ title: Essays
 permalink: /essay/
 ---
 
-## Essays
+## Essays (Substack)
 
 Crafted thoughts on technology and life.
 
