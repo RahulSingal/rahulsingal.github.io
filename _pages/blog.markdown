@@ -4,9 +4,9 @@ title: Blog
 permalink: /blog/
 ---
 
-## Blog Posts (Medium)
+## Blog Posts
 
-Free-flowing streams of consciousness written in the first person for various audiences.
+(Medium) Free-flowing streams of consciousness written in the first person for various audiences.
 
 <ul>
   {% for blog in site.blog %}
