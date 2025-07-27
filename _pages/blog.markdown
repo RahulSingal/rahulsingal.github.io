@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-## Blog Posts
+## Blog Posts (Medium)
 
 Free-flowing streams of consciousness written in the first person for various audiences.
 
